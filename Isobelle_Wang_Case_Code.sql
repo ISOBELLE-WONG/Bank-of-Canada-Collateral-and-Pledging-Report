@@ -1,4 +1,4 @@
---collateral recived -> deliver to bank in Col_Trans, 赎回
+--collateral recived -> deliver to bank in Col_Trans
 
 
 DROP TABLE IF EXISTS Col_Trans;
